@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Cumpleaños Mateo</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            text-align: center;
+            padding: 20px;
+            flex-direction: column;
+        }
+        p {
+            max-width: 600px;
+            line-height: 1.5;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Feliz cumpleaños, Mateo 🎉</p>
+        <p>Que la pases bien 🙂, que mejores las notas, y me perdones lo que te hice de llamarte cebolla 🧅 y reírme de tu tío. Que nada te rinda a ti y que sigas así. ¡Lo mejor para ti!</p>
+        <p>Mavis playa nudista 🥵</p>
+        <!-- Aquí puedes agregar la imagen de Mavis -->
+        <img src="mavis.jpg" alt="Mavis playa nudista">
+    </div>
+</body>
+</html>
